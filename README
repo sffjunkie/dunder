@@ -1,0 +1,2 @@
+Dunder is a small Python module which provides a `parse` function to extract
+all the dunder variables e.g. __version__ from a Python source file.

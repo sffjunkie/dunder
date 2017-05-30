@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+
+# Copyright 2014 Joe Bloggs Inc.
+
+"""Module docstring"""
+
+import datetime
+
+__hector__ = "0.2"
+__nobby__ = (1, '4')
+__styles__ = [56, 57]
+	

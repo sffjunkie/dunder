@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+
+# Copyright 2014 Joe Bloggs Inc.
+
+"""Module docstring"""
+
+import datetime
+from time import time
+from math import cos, sin, tan, acos, asin, atan2, floor, ceil
+from math import radians, degrees, pow
+
+__all__ = ['a']
+
+__version__ = "0.1"
+__author__ = "Joe Bloggs <joe.bloggs@example.com>"
+__wally__ = 1
+__dave__ = 1.1
+__brian__ = (1, 2, 3)
+
+def a():
+	__walter__ = 'dave'
+	
