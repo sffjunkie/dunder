@@ -49,6 +49,7 @@ publish
 __pycache__
 build
 dist
+MANIFEST
 
 # build script local files
 build/buildinfo.properties
